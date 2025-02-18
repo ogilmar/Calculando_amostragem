@@ -3,6 +3,8 @@ Descrição: Utiliza algoritmos de clustering (como K-means) para agrupar indiv�
 Vantagens: Identifica grupos naturais na população.
 Desvantagens: Requer software estatístico e pode ser complexo.
 
+
+
 # 2. Análise de Componentes Principais (PCA)
 Descrição: Reduz a dimensionalidade dos dados, identificando as principais variáveis que explicam a maior parte da variância.
 
