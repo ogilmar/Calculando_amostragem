@@ -16,6 +16,12 @@ Vantagens: Garante que subgrupos importantes sejam representados.
 
 Desvantagens: Requer conhecimento prévio da população para definir os estratos.
 
+### 2.1. Análise de Cluster (Análise de Agrupamentos)
+Descrição: Utiliza algoritmos de clustering (como K-means) para agrupar indivíduos com base em características semelhantes.
+Vantagens: Identifica grupos naturais na população.
+Desvantagens: Requer software estatístico e pode ser complexo.
+
+
 ## 3. Amostragem por Conglomerados
 Descrição: A população é dividida em conglomerados (grupos naturais, como bairros ou escolas), e alguns conglomerados são selecionados aleatoriamente para a amostra.
 
