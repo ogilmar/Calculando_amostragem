@@ -1,7 +1,8 @@
-# Calculando_amostragem
+# Calculando amostragem
+
 Neste repositório estou construindo métodos de cálculo amostral utilizando linguagem R.
 
-1. Amostragem Aleatória Simples
+##1. Amostragem Aleatória Simples
 Descrição: Cada membro da população tem uma chance igual de ser selecionado.
 
 Vantagens: Simples e fácil de implementar.
