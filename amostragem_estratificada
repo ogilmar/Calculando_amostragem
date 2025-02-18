@@ -1,1 +1,50 @@
+1. Análise de Cluster (Análise de Agrupamentos)
+Descrição: Utiliza algoritmos de clustering (como K-means) para agrupar indivíduos com base em características semelhantes.
+Vantagens: Identifica grupos naturais na população.
+Desvantagens: Requer software estatístico e pode ser complexo.
 
+# 2. Análise de Componentes Principais (PCA)
+Descrição: Reduz a dimensionalidade dos dados, identificando as principais variáveis que explicam a maior parte da variância.
+
+Vantagens: Útil quando há muitas variáveis correlacionadas.
+
+Desvantagens: Pode ser difícil interpretar os componentes principais.
+
+# 3. Análise Discriminante
+Descrição: Classifica indivíduos em grupos pré-definidos com base em variáveis preditoras.
+
+Vantagens: Útil quando os estratos já são conhecidos.
+
+Desvantagens: Requer conhecimento prévio dos estratos.
+
+# 4. Árvores de Decisão
+Descrição: Usa algoritmos de árvore de decisão para dividir a população com base em regras de decisão.
+
+Vantagens: Fácil de interpretar e implementar.
+
+Desvantagens: Pode superajustar os dados.
+
+# 5. Análise de Correspondência Múltipla (MCA)
+Descrição: Usada para dados categóricos, identifica padrões e agrupamentos.
+
+Vantagens: Adequada para variáveis categóricas.
+
+Desvantagens: Menos comum e pode ser complexa.
+
+# 6. Métodos de Otimização
+Descrição: Usa algoritmos de otimização para maximizar a homogeneidade dentro dos estratos e a heterogeneidade entre eles.
+
+Vantagens: Pode ser muito eficaz.
+
+Desvantagens: Requer conhecimento avançado de otimização.
+
+## Passos para Estabelecer Estratos:
+Defina os Objetivos: Determine quais características são importantes para a estratificação.
+
+Coleta de Dados: Colete dados sobre essas características na população.
+
+Análise Exploratória: Use técnicas exploratórias para identificar padrões e agrupamentos.
+
+Aplicação de Métodos Estatísticos: Aplique um dos métodos acima para definir os estratos.
+
+Validação: Verifique se os estratos são homogêneos internamente e heterogêneos entre si.
