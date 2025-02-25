@@ -28,6 +28,9 @@ Descrição: Usa algoritmos de árvore de decisão para dividir a população co
 ### 2.4. Análise de Correspondência Múltipla (MCA)
 Descrição: Usada para dados categóricos, identifica padrões e agrupamentos.
 
+### 2.5. Métodos de Otimização
+Descrição: Usa algoritmos de otimização para maximizar a homogeneidade dentro dos estratos e a heterogeneidade entre eles.
+
 ## 3. Amostragem por Conglomerados
 Descrição: A população é dividida em conglomerados (grupos naturais, como bairros ou escolas), e alguns conglomerados são selecionados aleatoriamente para a amostra.
 
