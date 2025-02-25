@@ -26,7 +26,7 @@ Descrição: A Análise de Principais Componentes pode extrair os atributos mais
 Descrição: Usa algoritmos de árvore de decisão para dividir a população com base em regras de decisão.
 
 ### 2.4. Análise de Correspondência Múltipla (MCA)
-#Descrição: Usada para dados categóricos, identifica padrões e agrupamentos.
+Descrição: Usada para dados categóricos, identifica padrões e agrupamentos.
 
 ## 3. Amostragem por Conglomerados
 Descrição: A população é dividida em conglomerados (grupos naturais, como bairros ou escolas), e alguns conglomerados são selecionados aleatoriamente para a amostra.
