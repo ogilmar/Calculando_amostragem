@@ -21,6 +21,10 @@ Descrição: Utiliza algoritmos de clustering (como K-means) para agrupar indiv�
 Vantagens: Identifica grupos naturais na população.
 Desvantagens: Requer software estatístico e pode ser complexo.
 
+### 2.2. Análise de Principais Componentes
+Descrição: A Análise de Principais Componentes pode extrair os atributos mais informativos de grandes conjuntos de dados, simultaneamente preservando as informações mais relevantes do conjunto de dados inicial.
+Vantagens: Simplifica e melhora a visualização dos dados.
+Desvantagens: Presume distribuição normal dos dados.
 
 ## 3. Amostragem por Conglomerados
 Descrição: A população é dividida em conglomerados (grupos naturais, como bairros ou escolas), e alguns conglomerados são selecionados aleatoriamente para a amostra.
