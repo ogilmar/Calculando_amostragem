@@ -357,13 +357,6 @@ ggplot(data = mca1_vars_df,
   ggtitle("MCA plot of variables")
 
 
-# 6. Métodos de Otimização
-Descrição: Usa algoritmos de otimização para maximizar a homogeneidade dentro dos estratos e a heterogeneidade entre eles.
-
-Vantagens: Pode ser muito eficaz.
-
-Desvantagens: Requer conhecimento avançado de otimização.
-
 ## Passos para Estabelecer Estratos:
 Defina os Objetivos: Determine quais características são importantes para a estratificação.
 
