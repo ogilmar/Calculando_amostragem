@@ -1,6 +1,5 @@
-# Calculando amostragem
+# 📝 Calculando amostragem 📝
 
-Compilação de scripts para cálculo amostral utilizando linguagem R.
 
 ## 1. Amostragem Aleatória Simples
 Descrição: Cada membro da população tem uma chance igual de ser selecionado.
