@@ -1,5 +1,16 @@
-# 📝 Calculando amostragem 📝
+# 📝Passos para Estabelecer Estratos📝
 
+Defina os Objetivos: Determine quais características são importantes para a estratificação.
+
+Coleta de Dados: Colete dados sobre essas características na população.
+
+Análise Exploratória: Use técnicas exploratórias para identificar padrões e agrupamentos.
+
+Aplicação de Métodos Estatísticos: Aplique um dos métodos acima para definir os estratos.
+
+Validação: Verifique se os estratos são homogêneos internamente e heterogêneos entre si.
+
+# 📝 Calculando amostragem 📝
 
 ## 1. Amostragem Aleatória Simples
 Descrição: Cada membro da população tem uma chance igual de ser selecionado.
